@@ -80,7 +80,7 @@ pyopenssl==21.0.0
     # via scrapy
 queuelib==1.6.2
     # via scrapy
-redis==3.5.3
+redis==4.3.6
     # via scrapy-redis
 scrapy==2.5.1
     # via
