@@ -17,7 +17,7 @@ cffi==1.15.0
     # via cryptography
 constantly==15.1.0
     # via twisted
-cryptography==35.0.0
+cryptography==42.0.2
     # via
     #   pyopenssl
     #   scrapy
