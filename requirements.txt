@@ -82,7 +82,7 @@ queuelib==1.6.2
     # via scrapy
 redis==3.5.3
     # via scrapy-redis
-scrapy==2.5.1
+scrapy==2.11.1
     # via
     #   -r requirements.in
     #   scrapy-redis
