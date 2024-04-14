@@ -36,7 +36,7 @@ hyperframe==5.2.0
     # via h2
 hyperlink==21.0.0
     # via twisted
-idna==3.3
+idna==3.7
     # via hyperlink
 incremental==21.3.0
     # via twisted
