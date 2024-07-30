@@ -104,7 +104,7 @@ six==1.16.0
     #   scrapyd
     #   service-identity
     #   w3lib
-twisted[http2]==21.7.0
+twisted==24.7.0rc1
     # via
     #   scrapy
     #   scrapyd
